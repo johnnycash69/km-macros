@@ -98,7 +98,7 @@
 				<key>CreationDate</key>
 				<real>494847726.62018198</real>
 				<key>ModificationDate</key>
-				<real>513010756.568735</real>
+				<real>513080649.09853297</real>
 				<key>Name</key>
 				<string>Internet Speedtest (fancy)</string>
 				<key>Triggers</key>
@@ -112,6 +112,14 @@
 						<string>HotKey</string>
 						<key>Modifiers</key>
 						<integer>6400</integer>
+					</dict>
+					<dict>
+						<key>MacroTriggerType</key>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>speedcheck</string>
 					</dict>
 				</array>
 				<key>UID</key>

@@ -62,7 +62,7 @@
 				<key>CreationDate</key>
 				<real>511131029.22981101</real>
 				<key>ModificationDate</key>
-				<real>513002267.90046602</real>
+				<real>513080727.40527099</real>
 				<key>Name</key>
 				<string>Internet Speedtest (simple)</string>
 				<key>Triggers</key>
@@ -79,7 +79,11 @@
 					</dict>
 					<dict>
 						<key>MacroTriggerType</key>
-						<string>StatusMenu</string>
+						<string>TypedString</string>
+						<key>SimulateDeletes</key>
+						<true/>
+						<key>TypedString</key>
+						<string>speedcheck</string>
 					</dict>
 				</array>
 				<key>UID</key>

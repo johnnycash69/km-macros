@@ -78,7 +78,7 @@ print SpeedNums;
 				<key>CreationDate</key>
 				<real>511131029.22981101</real>
 				<key>ModificationDate</key>
-				<real>513032413.81861401</real>
+				<real>513081117.06809503</real>
 				<key>Name</key>
 				<string>Internet Speedtest (special)</string>
 				<key>Triggers</key>
@@ -101,7 +101,7 @@ print SpeedNums;
 						<key>Repeat</key>
 						<true/>
 						<key>RepeatTime</key>
-						<integer>5460</integer>
+						<integer>5400</integer>
 						<key>TimeFinishHour</key>
 						<integer>23</integer>
 						<key>TimeFinishMinutes</key>
